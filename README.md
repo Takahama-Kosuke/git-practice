@@ -1,1 +1,2 @@
 Programhoge
+Fighter
